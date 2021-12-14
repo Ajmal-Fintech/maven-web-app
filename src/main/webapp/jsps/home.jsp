@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome to Landmark Technology. 
 	An ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is ALLAH.  THE MOST GRACIOUS. Production</h2>
+	The shout of the King is in our midst. His name is ALLAH.  THE MOST GRACIOUS. </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
