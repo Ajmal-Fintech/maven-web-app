@@ -12,7 +12,7 @@
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Landmark Technologies is supporting Ebay black Friday project. 
 	An ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+	We offer interview preparations and job assitance during bootcamp
 	The shout of the King is in our midst. His name is ALLAH.  THE MOST GRACIOUS. </h2>
 <hr>
 <div style="text-align: center;">
